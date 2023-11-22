@@ -1,6 +1,6 @@
 # Projeto DSList - Intensivão Java Spring
 
-Projeto desenvolvido no Intensivão Java Spring do canal ![DevSuperior](https://www.youtube.com/@DevsuperiorJavaSpring)
+Projeto desenvolvido no Intensivão Java Spring do canal [DevSuperior](https://www.youtube.com/@DevsuperiorJavaSpring)
 
 ## Modelo de domínio DSList
 
